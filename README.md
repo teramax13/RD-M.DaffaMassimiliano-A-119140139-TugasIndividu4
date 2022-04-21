@@ -10,3 +10,5 @@ Daftar package yang digunakan:
     "expo-updates": "~0.8.2"
 Cara menginstall aplikasi: Download apk nya dengan nama RD-M.Daffa Massimiliano A-119140139-Tugas Individu 4.apk
 Link Download Aplikasi: https://drive.google.com/file/d/1fUrLmhpoN-zRyMEMkf3cVz9vfoZuZAGx/view?usp=sharing
+
+
