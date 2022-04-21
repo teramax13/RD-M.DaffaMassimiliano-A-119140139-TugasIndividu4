@@ -12,3 +12,4 @@ Cara menginstall aplikasi: Download apk nya dengan nama RD-M.Daffa Massimiliano 
 Link Download Aplikasi: https://drive.google.com/file/d/1fUrLmhpoN-zRyMEMkf3cVz9vfoZuZAGx/view?usp=sharing
 
 
+<p align="center"><img width="700" align="center" src="https://github.com/teramax13/RD-M.DaffaMassimiliano-A-119140139-TugasIndividu4/blob/master/momen%20ketika.jpeg" alt="ss1"></p>
