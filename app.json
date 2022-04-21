@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "my-app",
-    "slug": "my-app",
+    "name": "meme-generator",
+    "slug": "snack-a8384c0e-9ede-40c3-a681-a7578e03e7c8",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -23,7 +23,8 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
-      }
+      },
+      "package": "ggqwfs.apk"
     },
     "web": {
       "favicon": "./assets/favicon.png"
